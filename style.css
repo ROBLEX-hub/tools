@@ -1,0 +1,23 @@
+body{
+    background: rgb(116, 150, 202);
+    align-items: 33px;
+}
+
+button{
+    height: 345px;
+    width: 345px;
+    margin: 5px;
+    border: none;
+    font-family: Arial;
+    font-size: x-large;
+    border-radius: 5px;
+} 
+
+.h1{
+    font-family: Arial;
+}
+
+.container{
+    align-items: 12px;
+    text-align: center;
+}
